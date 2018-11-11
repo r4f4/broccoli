@@ -3,4 +3,6 @@ Repo for general experiments
 
 # List of recipes containing broccoli
 * Penne with broccoli and cream
-    (don't forget the garlic)
+ (Try pink pepper and garlic next time)
+
+Enjoy your meal!
